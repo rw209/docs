@@ -1,0 +1,13 @@
+baseURL = "https://go-telegram-bot-api.github.io"
+languageCode = "en-us"
+title = "go-telegram-bot-api"
+
+theme = "docdock"
+
+PygmentsCodeFences = true
+
+[params]
+editURL = "https://github.com/go-telegram-bot-api/docs/edit/master/content/"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

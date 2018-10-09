@@ -1,0 +1,7 @@
+[submodule "themes/docdock"]
+	path = themes/docdock
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
+[submodule "public"]
+	path = public
+	url = git@github.com:go-telegram-bot-api/go-telegram-bot-api.github.io.git
+	branch = master
