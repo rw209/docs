@@ -39,7 +39,7 @@ func main() {
 		msg.ReplyToMessageID = update.Message.MessageID
 
 		if _, err := bot.Send(msg); err != nil {
-			og.Panic(err)
+			log.Panic(err)
 		}
 	}
 }
